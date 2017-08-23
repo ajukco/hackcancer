@@ -1,4 +1,4 @@
-<p align="center">logo.svg
+<p align="center">
 <img alt="Hack Cancer" src="https://ibb.co/j7hkGk" height="200" />
 </p>
 
