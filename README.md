@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-24 hour hackathon to beat cancer. Follow us on [Twitter](https://twitter.com/hack_cancer)
+24 hour hackathon to beat cancer. Follow us on [Twitter] (https://twitter.com/hack_cancer)
 </p>
