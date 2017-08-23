@@ -5,4 +5,5 @@
 <p align="center">
 24 hour hackathon to beat cancer. 
 </p>
-Follow us on [Twitter](https://twitter.com/hack_cancer)
+
+[Twitter](https://twitter.com/hack_cancer)
