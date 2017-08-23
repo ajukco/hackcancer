@@ -4,6 +4,4 @@
 
 <p align="center">
 24 hour hackathon to beat cancer. 
-[Twitter](https://twitter.com/hack_cancer)
 </p>
-
