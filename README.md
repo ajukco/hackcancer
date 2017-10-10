@@ -2,7 +2,7 @@
 
 [Promotional website](https://raynescc.github.io/hackcancer/) 👈
 
-[Twitter](ttps://twitter.com/hack_cancer) 👈
+[Twitter](https://twitter.com/hack_cancer) 👈
 
 
 
