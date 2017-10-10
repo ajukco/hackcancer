@@ -1,7 +1,8 @@
 # Hack Cancer (Hackathon)
 
 [Promotional website](https://raynescc.github.io/hackcancer/) 👈
-[Twitter](https://raynescc.github.io/hackcancer/) 👈
+
+[Twitter](ttps://twitter.com/hack_cancer) 👈
 
 
 
