@@ -24,5 +24,3 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 
 🎗️ Some amazing cancer beating products built
 
-
-🎗️ BIG thank you to all those that supported Hack Cancer. Either by means of sponsorship or making the event happen :) 🎗️
