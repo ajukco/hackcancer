@@ -1,4 +1,4 @@
-# Hack Cancer (Hackathon)
+# Hack Cancer
 
 [Promotional website](https://raynescc.github.io/hackcancer/) 👈
 
