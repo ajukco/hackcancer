@@ -1,6 +1,6 @@
 # Hack Cancer
 
-[Promotional website](https://raynescc.github.io/hackcancer/) 👈
+[Promotional website](https://raynesio.github.io/hackcancer/) 👈
 
 [Twitter](https://twitter.com/hack_cancer) 👈
 
