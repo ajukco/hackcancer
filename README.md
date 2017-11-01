@@ -2,9 +2,11 @@
 
 [Promotional website](https://raynesio.github.io/hackcancer/) 👈
 
+[Blog post](https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238) 👈
+
 [Twitter](https://twitter.com/hack_cancer) 👈
 
-[Blog post](https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238) 👈
+[LinkedIn](https://www.linkedin.com/company/hackcancer/) 👈
 
 
 ## About
