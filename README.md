@@ -1,6 +1,6 @@
 # Hack Cancer
 
-[Promotional website](https://raynescc.github.io/hackcancer/) 👈
+[Promotional website](https://ajukco.github.io/hackcancer/) 👈
 
 [Blog post](https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238) 👈
 
