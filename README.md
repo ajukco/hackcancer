@@ -6,8 +6,6 @@
 
 [Twitter](https://twitter.com/hack_cancer) 👈
 
-[LinkedIn](https://www.linkedin.com/company/hackcancer/) 👈
-
 
 ## About
 
