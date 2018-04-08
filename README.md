@@ -13,7 +13,7 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 
 🎗️ 24 hour hackathon to beat cancer
 
-🎗️ Raised £2800 pounds for Teenage Cancer Trust
+🎗️ Raised over £3000 pounds for Teenage Cancer Trust
 
 🎗️ Sponsored by over 20 companies, notably Google, Capital One & Estimote
 
