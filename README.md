@@ -15,7 +15,7 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 
 🎗️ Raised £2800 pounds for Teenage Cancer Trust
 
-🎗️ Sponsored by 17 companies, notably Capital One & Estimote
+🎗️ Sponsored by over 20 companies, notably Google, Capital One & Estimote
 
 🎗️ Some amazing cancer beating products built
 
