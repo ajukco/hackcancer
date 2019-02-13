@@ -1,5 +1,9 @@
 # Hack Cancer
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+
 [Promotional website](https://raynesio.github.io/hackcancer/) 👈
 
 [Blog post](https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238) 👈
