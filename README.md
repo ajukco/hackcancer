@@ -1,10 +1,11 @@
 # Hack Cancer
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9f758c0-747a-41d7-81ef-a4de0005601c/deploy-status)](https://app.netlify.com/sites/hackcancer/deploys)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 
-[Promotional website](https://raynesio.github.io/hackcancer/) 👈
+[Promotional website](https://hackcancer.raynes.io) 👈
 
 [Blog post](https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238) 👈
 
@@ -13,7 +14,7 @@
 
 ## About
 
-Being diagnosed with cancer sucks, I and a team of friends decided to do something about it and Hack Cancer was born. On October 10th – 11th 2015, forty of the best developers and doctors from around the world, gathered at Google Campus to build products to beat cancer.
+Being diagnosed with cancer sucks, a team of friends and I decided to do something about it and Hack Cancer was born. On October 10th – 11th 2015, forty of the best developers and doctors from around the world, gathered at Google Campus to build products to beat cancer.
 
 🎗️ 24 hour hackathon to beat cancer
 
